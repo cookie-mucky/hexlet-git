@@ -1,2 +1,1 @@
-Hello, Hexlet! How are you?
-New line
+1 bugFix
